@@ -1,3 +1,16 @@
+#This is a place to leave notes associated with the hsc merge
+#The data entered here will show up at
+#http://www.astro.princeton.edu/~nlust/hsc.html
+#
+#The left and side of the dictionary (the key) may either be the HSC jira
+#ticket number as shown below, or the full name of the branch, i.e.
+#origin/u/jbosch/fakes.
+#
+#The right hand column is where you put in any notes as a python string.
+#Any valid html markup may be used within the string. For something
+#complicated it may be worth defining a string seperately below and adding
+#it to the dictionary post initialization.
+
 hscLsstMap = {'1203':'DM-2913',
               '1153':'DM-2913',
               '1144':'DM-2913',
