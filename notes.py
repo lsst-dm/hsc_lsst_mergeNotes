@@ -45,5 +45,6 @@ hscLsstMap = {'1203':'DM-2913',
               '1273':'DM-2977',
               '1228':'DM-2914',
               '1270':'DM-2978',
+              '976':'Missed in DM-2981; rescheduled for DM-3259'
               }
 
