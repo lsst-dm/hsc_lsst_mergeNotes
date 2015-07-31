@@ -30,6 +30,7 @@ hscLsstMap = {
               '1075':'DM-1946',
               '1083':'DM-1944',
               '1109':'DM-1944',
+              '1112':'Partial cherry pick on DM-2980; the rest probably doesn\'t apply to LSST',
               '1129':'DM-2606',
               '1135':'DM-2606',
               '1138':'DM-3258 (Done)',
