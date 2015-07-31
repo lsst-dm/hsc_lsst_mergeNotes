@@ -17,6 +17,7 @@ hscLsstMap = {
               '541':'DM-2606',
               '551':'Merged in two pieces in DM-240 and DM-3136',
               '669':'Merged in two pieces in DM-3136 and DM-2980',
+              '897':'Bulk of the work should be in DM-833. Partial cherry pick in DM-2980.',
               '974':'DM-3243 (Done)',
               '976':'Missed in DM-2981; rescheduled for DM-3259',
               '1020':'DM-1946',
