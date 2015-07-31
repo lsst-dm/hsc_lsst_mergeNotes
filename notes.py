@@ -13,10 +13,12 @@
 
 hscLsstMap = {
               '134':'DM-1944',
+              '138':'DM-2980, DM-245, DM-2674',
               '152':'DM-3157 (Done)',
               '541':'DM-2606',
               '551':'Merged in two pieces in DM-240 and DM-3136',
               '669':'Merged in two pieces in DM-3136 and DM-2980',
+              '804':'DM-2980',
               '897':'Bulk of the work should be in DM-833. Partial cherry pick in DM-2980.',
               '974':'DM-3243 (Done)',
               '976':'Missed in DM-2981; rescheduled for DM-3259',
@@ -31,6 +33,7 @@ hscLsstMap = {
               '1083':'DM-1944',
               '1109':'DM-1944',
               '1112':'Partial cherry pick on DM-2980; the rest probably doesn\'t apply to LSST',
+              '1126':'This is a big grab bag of misc fixes. See DM-3264 for sorting out what\'s what. One cherry-pick on DM-2980.',
               '1129':'DM-2606',
               '1135':'DM-2606',
               '1138':'DM-3258 (Done)',
