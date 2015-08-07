@@ -74,6 +74,7 @@ hscLsstMap = {
               '1271':'DM-2778',
               '1273':'DM-2977',
               '1274':'DM-2914',
+              '1279':'Aperture corrections are handled differently on LSST, but an equivalent fix is in place as of DM-436/b4eb33d',
               '1283':'DM-3139 (Done)',
               }
 
