@@ -86,3 +86,4 @@ hscLsstMap = {
 # Floating commits (just entering as comments for now):
 # https://github.com/HyperSuprime-Cam/meas_algorithms/commit/1d4ffae208574b210a627a473f3d63a0b09d9825: DM-2778 (Done)
 
+#coment to test git update
