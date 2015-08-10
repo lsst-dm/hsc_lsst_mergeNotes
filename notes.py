@@ -19,6 +19,7 @@ hscLsstMap = {
               '541':'DM-2606 (Done)',
               '551':'Merged in two pieces in DM-240 and DM-3136',
               '669':'Merged in two pieces in DM-3136 and DM-2980',
+              '715':'PerTractCcdDataIdContainer into pipe_tasks on DM-2674. No obvious equiv. to the ForcedPhotCcd change on LSST.',
               '798':'DM-833',
               '804':'DM-2980',
               '897':'Bulk of the work in DM-833. Partial cherry pick in DM-2980.',
