@@ -71,7 +71,7 @@ hscLsstMap = {
               '1249':'DM-2977',
               '1250':'DM-2914',
               '1256':'DM-1954',
-              '1260':'DM-2914 (was DM-2975 which is now a Won't Fix)',
+              '1260':"DM-2914 (was DM-2975 which is now a Won't Fix)",
               '1264':'DM-2977',
               '1265':'DM-2914',
               '1268':'DM-2914',
