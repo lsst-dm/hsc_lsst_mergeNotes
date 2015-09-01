@@ -29,6 +29,7 @@ hscLsstMap = {
               '974':'DM-3243 (Done)',
               '975':'DM-833',
               '976':'Missed in DM-2981; rescheduled for DM-3259',
+              '1004':'DM-2914 [meas_deblender, afw] (Done)',
               '1020':'DM-1946 (Done)',
               '1047':'DM-2778 (Done)',
               '1060':'DM-1945 (Done)',
@@ -41,11 +42,13 @@ hscLsstMap = {
               '1083':'DM-1944 (Done)',
               '1109':'DM-1944 (Done)',
               '1112':'Partial cherry pick on DM-2980; the rest probably doesn\'t apply to LSST',
+              '1116':'DM-2914 [meas_deblender] (Done)',
               '1126':'This is a big grab bag of misc fixes. See DM-3264 for sorting out what\'s what. One cherry-pick on DM-2980. All meas_deblender cherry-picks done on DM-1944.',
               '1129':'DM-2606 (Done)',
               '1135':'DM-2606 (Done)',
               '1138':'DM-3258 (Done)',
               '1144':'DM-2913',
+              '1147':'DM-2914 [meas_deblender] (Done)',
               '1153':'DM-2913',
               '1166':'DM-2915',
               '1202':'DM-2915',
@@ -86,6 +89,6 @@ hscLsstMap = {
 
 # Floating commits (just entering as comments for now):
 # https://github.com/HyperSuprime-Cam/meas_algorithms/commit/1d4ffae208574b210a627a473f3d63a0b09d9825: DM-2778 (Done)
-# https://github.com/HyperSuprime-Cam/afw/commit/6fb4676e4b69a29fa8d2cea87d2e22363011408e: DM-2914
+# https://github.com/HyperSuprime-Cam/afw/commit/6fb4676e4b69a29fa8d2cea87d2e22363011408e: DM-2914 (Done)
 #
 #coment to test git update
