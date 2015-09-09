@@ -19,6 +19,7 @@ hscLsstMap = {
               '541':'DM-2606 (Done)',
               '551':'Merged in two pieces in DM-240 and DM-3136',
               '669':'Merged in two pieces in DM-3136 and DM-2980',
+              '670':'DM-245 (Done)',
               '715':'To meas_base on DM-2674.',
               '756':'DM-3677',
               '798':'DM-833',
