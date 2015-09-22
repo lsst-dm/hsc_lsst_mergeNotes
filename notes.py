@@ -91,5 +91,13 @@ hscLsstMap = {
 # Floating commits (just entering as comments for now):
 # https://github.com/HyperSuprime-Cam/meas_algorithms/commit/1d4ffae208574b210a627a473f3d63a0b09d9825: DM-2778 (Done)
 # https://github.com/HyperSuprime-Cam/afw/commit/6fb4676e4b69a29fa8d2cea87d2e22363011408e: DM-2914 (Done)
+# https://github.com/HyperSuprime-Cam/meas_algorithms/commit/071fcadc016908a10583c746f0a8e79df2a45ead: DM-3678 (Done)
+# https://github.com/HyperSuprime-Cam/meas_algorithms/commit/e73c5e447ac0b8a71926d3e78fec30aad4beee91: DM-3678 (Done)
+# https://github.com/HyperSuprime-Cam/meas_algorithms/commit/15bb812578531766199e9a1ee41cc707fb3d9873: DM-3678 (Done)
+# https://github.com/HyperSuprime-Cam/meas_algorithms/commit/44f75bc60b41c5f77b323a8d9981048ef7e5f3c4: DM-3678 (Done)
+# https://github.com/HyperSuprime-Cam/meas_algorithms/commit/4413db4610e4793727e591f395f5ad8cd0cb6030: DM-3678 (Done)
+# https://github.com/HyperSuprime-Cam/meas_algorithms/commit/67efacaccf8346fdfa1b450617aebabddb2b7ec0: DM-3678 (Done)
+# https://github.com/HyperSuprime-Cam/meas_algorithms/commit/b1bc91ed1538607eb90e070881a82498fd551909: DM-3678 (Done)
+# https://github.com/HyperSuprime-Cam/meas_algorithms/commit/6b36f4d757187d30142a7e026754a07ffeb8dea2: DM-3678 (Done)
 #
 #coment to test git update
