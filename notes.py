@@ -42,8 +42,8 @@ hscLsstMap = {
               '1074':'DM-1386 -> Actually Done on DM-1943 (Done)',
               '1075':'DM-1946[afw] & DM-1945[meas_deblender, pipe_tasks, obs_subaru] (Done)',
               '1083':'DM-1944 (Done)',
-              '1085':'DM-3693'
-              '1086':'DM-3693'
+              '1085':'DM-3693',
+              '1086':'DM-3693',
               '1109':'DM-1944 (Done)',
               '1112':'Partial cherry pick on DM-2980; the rest probably doesn\'t apply to LSST',
               '1116':'DM-2914 [meas_deblender] (Done)',
