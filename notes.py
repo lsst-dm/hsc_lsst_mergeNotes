@@ -40,6 +40,7 @@ hscLsstMap = {
               '1064':'DM-1945 (Done)',
               '1065':'DM-1945 (Done)',
               '1074':'DM-1386 -> Actually Done on DM-1943 (Done)',
+              '1072':'DM-3811'
               '1075':'DM-1946[afw] & DM-1945[meas_deblender, pipe_tasks, obs_subaru] (Done)',
               '1083':'DM-1944 (Done)',
               '1085':'DM-3693',
@@ -55,6 +56,7 @@ hscLsstMap = {
               '1147':'DM-2914 [meas_deblender] (Done)',
               '1153':'DM-2913',
               '1166':'DM-2915',
+              '1175':'DM-3811'
               '1202':'DM-2915',
               '1203':'DM-2913',
               '1205':'DM-1946 & DM-1945 (Done)',
