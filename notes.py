@@ -110,6 +110,7 @@ hscLsstMap = {
 # https://github.com/HyperSuprime-Cam/pipe_tasks/commit/ab6cb9e206d0456dc764c5ef78ac80ece937c610: DM-3693
 # https://github.com/HyperSuprime-Cam/pipe_tasks/commit/08a8ec029dd52ac55e47b707a6905df061a40506: DM-3693
 # https://github.com/HyperSuprime-Cam/pipe_tasks/commit/9e8563fd8d630dad967786387b1f27b6bc7ee039: DM-3693
+# https://github.com/HyperSuprime-Cam/obs_subaru/commit/52733a7ab1731a15cbb93151851f57cec276f928: DM-3693
 # https://github.com/HyperSuprime-Cam/obs_subaru/commit/bae672c0e42857d0d1beeb532af3eb6934ac3cea: DM-4022 (Done)
 #
 #coment to test git update
