@@ -43,8 +43,8 @@ hscLsstMap = {
               '1072':'DM-3811',
               '1075':'DM-1946[afw] & DM-1945[meas_deblender, pipe_tasks, obs_subaru] (Done)',
               '1083':'DM-1944 (Done)',
-              '1085':'DM-3693',
-              '1086':'DM-3693',
+              '1085':'DM-3693 (Done)',
+              '1086':'DM-3693 (Done)',
               '1109':'DM-1944 (Done)',
               '1112':'Partial cherry pick on DM-2980; the rest probably doesn\'t apply to LSST',
               '1116':'DM-2914 [meas_deblender] (Done)',
@@ -105,13 +105,13 @@ hscLsstMap = {
 # https://github.com/HyperSuprime-Cam/meas_algorithms/commit/67efacaccf8346fdfa1b450617aebabddb2b7ec0: DM-3678 (Done)
 # https://github.com/HyperSuprime-Cam/meas_algorithms/commit/b1bc91ed1538607eb90e070881a82498fd551909: DM-3678 (Done)
 # https://github.com/HyperSuprime-Cam/meas_algorithms/commit/6b36f4d757187d30142a7e026754a07ffeb8dea2: DM-3678 (Done)
-# https://github.com/HyperSuprime-Cam/pipe_tasks/commit/e9db5c0dcdca20e8f7ba71f24f8b797e71699352: DM-3693
-# https://github.com/HyperSuprime-Cam/pipe_tasks/commit/c2d89396923f9d589822c043ed8753647e70f3f6: DM-3693
-# https://github.com/HyperSuprime-Cam/pipe_tasks/commit/cf5724b852937cfcef1b71b7a372552011fda670: DM-3693
-# https://github.com/HyperSuprime-Cam/pipe_tasks/commit/ab6cb9e206d0456dc764c5ef78ac80ece937c610: DM-3693
-# https://github.com/HyperSuprime-Cam/pipe_tasks/commit/08a8ec029dd52ac55e47b707a6905df061a40506: DM-3693
-# https://github.com/HyperSuprime-Cam/pipe_tasks/commit/9e8563fd8d630dad967786387b1f27b6bc7ee039: DM-3693
-# https://github.com/HyperSuprime-Cam/obs_subaru/commit/52733a7ab1731a15cbb93151851f57cec276f928: DM-3693
+# https://github.com/HyperSuprime-Cam/pipe_tasks/commit/e9db5c0dcdca20e8f7ba71f24f8b797e71699352: DM-3693 (Done)
+# https://github.com/HyperSuprime-Cam/pipe_tasks/commit/c2d89396923f9d589822c043ed8753647e70f3f6: DM-3693 (Done)
+# https://github.com/HyperSuprime-Cam/pipe_tasks/commit/cf5724b852937cfcef1b71b7a372552011fda670: DM-3693 (Done)
+# https://github.com/HyperSuprime-Cam/pipe_tasks/commit/ab6cb9e206d0456dc764c5ef78ac80ece937c610: DM-3693 (Done)
+# https://github.com/HyperSuprime-Cam/pipe_tasks/commit/08a8ec029dd52ac55e47b707a6905df061a40506: DM-3693 (Done)
+# https://github.com/HyperSuprime-Cam/pipe_tasks/commit/9e8563fd8d630dad967786387b1f27b6bc7ee039: DM-3693 (Done)
+# https://github.com/HyperSuprime-Cam/obs_subaru/commit/52733a7ab1731a15cbb93151851f57cec276f928: DM-3693 (Done)
 # https://github.com/HyperSuprime-Cam/obs_subaru/commit/bae672c0e42857d0d1beeb532af3eb6934ac3cea: DM-4022 (Done)
 #
 #coment to test git update
