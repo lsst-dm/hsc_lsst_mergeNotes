@@ -45,6 +45,7 @@ hscLsstMap = {
               '1083':'DM-1944 (Done)',
               '1085':'DM-3693 (Done)',
               '1086':'DM-3693 (Done)',
+              '1106':'DM-3911 Omitting eups versioning changes (Done)',
               '1109':'DM-1944 (Done)',
               '1112':'Partial cherry pick on DM-2980; the rest probably doesn\'t apply to LSST',
               '1116':'DM-2914 [meas_deblender] (Done)',
@@ -90,8 +91,12 @@ hscLsstMap = {
               '1271':'DM-2778',
               '1273':'DM-2977',
               '1274':'DM-2914 (Done)',
+              '1275':'DM-3911 (Done)',
               '1279':'Aperture corrections are handled differently on LSST, but an equivalent fix is in place as of DM-436/b4eb33d',
               '1283':'DM-3139 (Done)',
+              '1285':'DM-3911 Omitting eups versioning changes (Done)',
+              '1292':'DM-3911 Omitting eups versioning changes (Done)',
+              '1321':'DM-3911 (Done)',
               }
 
 # Floating commits (just entering as comments for now):
@@ -113,5 +118,6 @@ hscLsstMap = {
 # https://github.com/HyperSuprime-Cam/pipe_tasks/commit/9e8563fd8d630dad967786387b1f27b6bc7ee039: DM-3693 (Done)
 # https://github.com/HyperSuprime-Cam/obs_subaru/commit/52733a7ab1731a15cbb93151851f57cec276f928: DM-3693 (Done)
 # https://github.com/HyperSuprime-Cam/obs_subaru/commit/bae672c0e42857d0d1beeb532af3eb6934ac3cea: DM-4022 (Done)
+# https://github.com/HyperSuprime-Cam/daf_persistence/commit/6bf2ae5b3ad015494f8a095d1d7a51e8a8ce150e: DM-3911 (Done)
 #
 #coment to test git update
