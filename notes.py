@@ -31,6 +31,7 @@ hscLsstMap = {
               '974':'DM-3243 (Done)',
               '975':'DM-833',
               '976':'Missed in DM-2981; rescheduled for DM-3259',
+              '987':'DM-3942 [obs_subaru] (Done) Still need [daf_butlerUtils, ip_isr, hscPipe(?)] changesets',
               '1004':'DM-2914 [meas_deblender, afw] (Done)',
               '1020':'DM-1946 (Done)',
               '1047':'DM-2778 (Done)',
