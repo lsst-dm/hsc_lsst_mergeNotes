@@ -59,7 +59,7 @@ hscLsstMap = {
               '1153':'DM-2913',
               '1160':'Compiler warning fix duplicates DM-4101, which is already fixed on LSST.',
               '1166':'DM-2915 (Done)',
-              '1175':'DM-3811',
+              '1175':'DM-3811 (Done)',
               '1202':'DM-2915 (Done)',
               '1203':'DM-2913',
               '1205':'DM-1946 & DM-1945 (Done)',
