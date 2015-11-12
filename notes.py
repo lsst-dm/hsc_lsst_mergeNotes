@@ -46,6 +46,7 @@ hscLsstMap = {
               '1083':'DM-1944 (Done)',
               '1085':'DM-3693 (Done)',
               '1086':'DM-3693 (Done)',
+              '1094':'DM-4323',
               '1106':'DM-3911 Omitting eups versioning changes (Done)',
               '1109':'DM-1944 (Done)',
               '1112':'Partial cherry pick on DM-2980; the rest probably doesn\'t apply to LSST',
@@ -124,5 +125,6 @@ hscLsstMap = {
 # https://github.com/HyperSuprime-Cam/obs_subaru/commit/bae672c0e42857d0d1beeb532af3eb6934ac3cea: DM-4022 (Done)
 # https://github.com/HyperSuprime-Cam/daf_persistence/commit/6bf2ae5b3ad015494f8a095d1d7a51e8a8ce150e: DM-3911 (Done)
 # https://github.com/HyperSuprime-Cam/obs_subaru/commit/f908cffcbc61b2f842b30c4821ee29ea2160538d: DM-2793 (Done)
+# https://github.com/HyperSuprime-Cam/obs_subaru/commit/37d802cfb51f19792f84ca7c7904352ac15d4301: Obsolete; covered by DM-4323
 #
 #coment to test git update
