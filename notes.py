@@ -56,15 +56,18 @@ hscLsstMap = {
               '1135':'DM-2606 (Done)',
               '1138':'DM-3258 (Done)',
               '1144':'DM-2913',
-              '1147':'DM-2914 [meas_deblender] (Done)',
+              '1147':'DM-2914 [meas_deblender] (Done), DM-3942 [obs_subaru] (No-op)',
               '1153':'DM-2913',
-              '1160':'Compiler warning fix duplicates DM-4101, which is already fixed on LSST.',
+              '1160':'Compiler warning fix duplicates DM-4101, which is already fixed on LSST. defects commit DM-3942 (Done)',
+              '1161':'DM-3942 (Done)',
               '1166':'DM-2915 (Done)',
               '1175':'DM-3811 (Done)',
               '1196':'DM-4323',
+              '1201':'DM-3942 (Done)',
               '1202':'DM-2915 (Done)',
               '1203':'DM-2913',
               '1205':'DM-1946 & DM-1945 (Done)',
+              '1208':'DM-3942 (Done)',
               '1213':'DM-2778 (Done)',
               '1215':'DM-2606 (Done)',
               '1216':'DM-1954 (Done)',
@@ -74,6 +77,7 @@ hscLsstMap = {
               '1221':'DM-2778 (Done)',
               '1223':'DM-2913',
               '1228':'DM-2914 (Done)',
+              '1231':'DM-3942 (first commit Done). 2nd (of two) commit blocked by HSC-1095',
               '1235':'DM-1954 (Done)',
               '1236':'DM-2913',
               '1237':'DM-2914 (Done)',
@@ -100,7 +104,10 @@ hscLsstMap = {
               '1279':'Aperture corrections are handled differently on LSST, but an equivalent fix is in place as of DM-436/b4eb33d',
               '1283':'DM-3139 (Done)',
               '1285':'DM-3911 Omitting eups versioning changes (Done)',
+              '1289':'DM-3942 (Done)',
               '1292':'DM-3911 Omitting eups versioning changes (Done)',
+              '1296':'DM-3942 (Done)',
+              '1310':'DM-3942 (Done)',
               '1321':'DM-3911 (Done)',
               }
 
@@ -126,5 +133,8 @@ hscLsstMap = {
 # https://github.com/HyperSuprime-Cam/daf_persistence/commit/6bf2ae5b3ad015494f8a095d1d7a51e8a8ce150e: DM-3911 (Done)
 # https://github.com/HyperSuprime-Cam/obs_subaru/commit/f908cffcbc61b2f842b30c4821ee29ea2160538d: DM-2793 (Done)
 # https://github.com/HyperSuprime-Cam/obs_subaru/commit/37d802cfb51f19792f84ca7c7904352ac15d4301: Obsolete; covered by DM-4323
+# https://github.com/HyperSuprime-Cam/obs_subaru/commit/420c12742a88e82e6186d33ab2ea81621e1473cf: DM-3942 (Done)
+# https://github.com/HyperSuprime-Cam/obs_subaru/commit/ec670853db2ddeb823905611f242ef7f7dd0a3fa: DM-3942 (Done)
+# https://github.com/HyperSuprime-Cam/obs_subaru/commit/e4326f7791db94c70494d373413d25b080a38f7c: DM-3942 (Done)
 #
 #coment to test git update
