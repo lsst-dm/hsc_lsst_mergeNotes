@@ -110,7 +110,7 @@ hscLsstMap = {
               '1310':'DM-3942 (Done)',
               '1311':'DM-4408 bug fix in [afw] only',
               '1321':'DM-3911 (Done)',
-              '1366':'To coadd_utils on DM-4373,
+              '1366':'To coadd_utils on DM-4373',
               }
 
 # Floating commits (just entering as comments for now):
