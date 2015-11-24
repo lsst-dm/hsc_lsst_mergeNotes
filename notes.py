@@ -21,7 +21,7 @@ hscLsstMap = {
               '551':'Merged in two pieces in DM-240 and DM-3136',
               '669':'Merged in two pieces in DM-3136 and DM-2980',
               '670':'DM-245 (Done)',
-              '715':'To meas_base on DM-2674.',
+              '715':'To meas_base on DM-4373 (formerly on DM-2674)',
               '756':'DM-3677 (Done)',
               '798':'DM-833 (Done)',
               '804':'DM-2980 (Done)',
@@ -108,7 +108,9 @@ hscLsstMap = {
               '1292':'DM-3911 Omitting eups versioning changes (Done)',
               '1296':'DM-3942 (Done)',
               '1310':'DM-3942 (Done)',
+              '1311':'DM-4408 bug fix in [afw] only',
               '1321':'DM-3911 (Done)',
+              '1366':'To coadd_utils on DM-4373,
               }
 
 # Floating commits (just entering as comments for now):
@@ -136,5 +138,6 @@ hscLsstMap = {
 # https://github.com/HyperSuprime-Cam/obs_subaru/commit/420c12742a88e82e6186d33ab2ea81621e1473cf: DM-3942 (Done)
 # https://github.com/HyperSuprime-Cam/obs_subaru/commit/ec670853db2ddeb823905611f242ef7f7dd0a3fa: DM-3942 (Done)
 # https://github.com/HyperSuprime-Cam/obs_subaru/commit/e4326f7791db94c70494d373413d25b080a38f7c: DM-3942 (Done)
+# https://github.com/HyperSuprime-Cam/hscPipe/commit/4a8465424316019d8f87fcb6ac0e4f2d7309ad91: to [coadd-utils] on DM-4373
 #
 #coment to test git update
