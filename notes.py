@@ -26,6 +26,7 @@ hscLsstMap = {
               '798':'DM-833 (Done)',
               '804':'DM-2980 (Done)',
               '897':'Bulk of the work in DM-833. Partial cherry pick in DM-2980.',
+              '966':'DM-3692 (Done)',
               '972':'DM-2981 (Done)',
               '973':'DM-2981 (Done)',
               '974':'DM-3243 (Done)',
