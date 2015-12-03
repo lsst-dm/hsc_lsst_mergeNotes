@@ -139,6 +139,6 @@ hscLsstMap = {
 # https://github.com/HyperSuprime-Cam/obs_subaru/commit/420c12742a88e82e6186d33ab2ea81621e1473cf: DM-3942 (Done)
 # https://github.com/HyperSuprime-Cam/obs_subaru/commit/ec670853db2ddeb823905611f242ef7f7dd0a3fa: DM-3942 (Done)
 # https://github.com/HyperSuprime-Cam/obs_subaru/commit/e4326f7791db94c70494d373413d25b080a38f7c: DM-3942 (Done)
-# https://github.com/HyperSuprime-Cam/hscPipe/commit/4a8465424316019d8f87fcb6ac0e4f2d7309ad91: to [coadd-utils] on DM-4373
+# https://github.com/HyperSuprime-Cam/hscPipe/commit/4a8465424316019d8f87fcb6ac0e4f2d7309ad91: TractDataIdContainer addition only to [coadd-utils] on DM-4373
 #
 #coment to test git update
