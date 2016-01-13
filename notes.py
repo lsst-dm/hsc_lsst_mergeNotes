@@ -121,7 +121,9 @@ hscLsstMap = {
               '1313':'DM-3821 (Done)',
               '1321':'DM-3911 (Done)',
               '1339':'DM-4768',
+              '1357':'DM-4798',
               '1366':'To coadd_utils on DM-4373',
+              '1383':'DM-4798',
               }
 
 # Floating commits (just entering as comments for now):
