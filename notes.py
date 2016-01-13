@@ -68,6 +68,7 @@ hscLsstMap = {
               '1161':'DM-3942 (Done)',
               '1166':'DM-2915 (Done)',
               '1175':'DM-3811 (Done)',
+              '1191':'DM-4410 (Reviewed), DM-4411 (Reviewed), DM-2977 (Done)',
               '1196':'DM-4323',
               '1201':'DM-3942 (Done)',
               '1202':'DM-2915 (Done)',
