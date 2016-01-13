@@ -52,7 +52,7 @@ hscLsstMap = {
               '1083':'DM-1944 (Done)',
               '1085':'DM-3693 (Done)',
               '1086':'DM-3693 (Done)',
-              '1094':'DM-4323',
+              '1094':'DM-4323 (Done)',
               '1106':'DM-3911 Omitting eups versioning changes (Done)',
               '1109':'DM-1944 (Done)',
               '1112':'Partial cherry pick on DM-2980; the rest probably doesn\'t apply to LSST',
