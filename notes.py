@@ -117,7 +117,7 @@ hscLsstMap = {
               '1292':'DM-3911 Omitting eups versioning changes (Done)',
               '1296':'DM-3942 (Done)',
               '1310':'DM-3942 (Done)',
-              '1311':'DM-4408 bug fix in [afw] only, DM-4797 bug fix in [hscPipe->pipe_tasks]',
+              '1311':'DM-4408 bug fix in [afw] only (Done); DM-4797 bug fix in [hscPipe->pipe_tasks]; need to consider whether we want to merge the other changes here which mainly impact on hscPipe.',
               '1313':'DM-3821 (Done)',
               '1321':'DM-3911 (Done)',
               '1339':'DM-4768',
