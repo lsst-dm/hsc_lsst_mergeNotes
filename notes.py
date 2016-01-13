@@ -34,7 +34,7 @@ hscLsstMap = {
               '974':'DM-3243 (Done)',
               '975':'DM-833 (Done)',
               '976':'Missed in DM-2981; rescheduled for DM-3259 (Done)',
-              '987':'DM-3942 [obs_subaru] (Done) DM-4795 [daf_butlerUtils], DM-4796 [ip_isr]',
+              '987':'DM-3942 [obs_subaru] (Done) DM-4795 [daf_butlerUtils], DM-4796 [ip_isr] -- query do we need the [hscPipe] config changes (& if so, in obs_subaru or elswhere)?',
               '990':'DM-2977 (Done)',
               '991':'DM-240 (Done)',
               '1004':'DM-2914 [meas_deblender, afw] (Done)',
