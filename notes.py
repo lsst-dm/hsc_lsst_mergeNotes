@@ -84,7 +84,7 @@ hscLsstMap = {
               '1221':'DM-2778 (Done)',
               '1223':'DM-2913',
               '1228':'DM-2914 (Done)',
-              '1231':'DM-3942 [obs_subaru] (first commit Done). 2nd (of two) commit blocked by HSC-1095. [hscPipe] changes will be included in DM-3373. [ip_isr] on DM-4800.',
+              '1231':'DM-3942 [obs_subaru] (first commit Done). 2nd (of two) commit blocked by HSC-1095. [hscPipe] changes will be included in DM-3373. [ip_isr] on DM-4800 (Done).',
               '1235':'DM-1954 (Done)',
               '1236':'DM-2913',
               '1237':'DM-2914 (Done)',
