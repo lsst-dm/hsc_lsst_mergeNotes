@@ -23,7 +23,7 @@ hscLsstMap = {
               '618':'DM-2977 (Done)',
               '669':'Merged in two pieces in DM-3136 and DM-2980',
               '670':'DM-245 (Done)',
-              '715':'To meas_base on DM-4373 (formerly on DM-2674)',
+              '715':'To meas_base on DM-4373 (formerly on DM-2674) (Done)',
               '756':'DM-3677 (Done)',
               '798':'DM-833 (Done)',
               '804':'DM-2980 (Done)',
@@ -124,7 +124,7 @@ hscLsstMap = {
               '1353':'DM-4821',
               '1357':'DM-4798',
               '1360':'DM-4821',
-              '1366':'To coadd_utils on DM-4373',
+              '1366':'To coadd_utils on DM-4373 (Done)',
               '1383':'DM-4798',
               }
 
