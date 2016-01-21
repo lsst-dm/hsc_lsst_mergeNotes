@@ -117,6 +117,7 @@ hscLsstMap = {
               '1285':'DM-3911 Omitting eups versioning changes (Done)',
               '1288':'DM-2977 (Done)',
               '1289':'DM-3942 (Done)',
+              '1290':'[afw] DM-4881, [shapeHSM] DM-3384 (Done)',
               '1291':'no-op (originated on LSST)',
               '1292':'DM-3911 Omitting eups versioning changes (Done)',
               '1293':'DM-4878 (changes to PropagateVisitFlagsTask), DM-4879 (making catalogs contiguous)',
