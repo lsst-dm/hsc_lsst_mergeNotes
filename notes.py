@@ -23,7 +23,7 @@ hscLsstMap = {
               '618':'DM-2977 (Done)',
               '669':'Merged in two pieces in DM-3136 and DM-2980',
               '670':'DM-245 (Done)',
-              '698':'DM-5161 [CR.cc changes only]',
+              '698':'DM-5161 [CR.cc changes only] (Done)',
               '715':'To meas_base on DM-4373 (formerly on DM-2674) (Done)',
               '756':'DM-3677 (Done)',
               '798':'DM-833 (Done)',
@@ -41,7 +41,7 @@ hscLsstMap = {
               '1004':'DM-2914 [meas_deblender, afw] (Done)',
               '1014':'Not required',
               '1020':'DM-1946 (Done)',
-              '1028':'DM-5161',
+              '1028':'DM-5161 (Done)',
               '1047':'DM-2778 (Done)',
               '1052':'DM-4878',
               '1060':'DM-1945 (Done)',
@@ -247,7 +247,7 @@ hscLsstMap = {
 # https://github.com/HyperSuprime-Cam/obs_subaru/commit/ec670853db2ddeb823905611f242ef7f7dd0a3fa: DM-3942 (Done)
 # https://github.com/HyperSuprime-Cam/obs_subaru/commit/e4326f7791db94c70494d373413d25b080a38f7c: DM-3942 (Done)
 # https://github.com/HyperSuprime-Cam/hscPipe/commit/4a8465424316019d8f87fcb6ac0e4f2d7309ad91: TractDataIdContainer addition only to [coadd-utils] on DM-4373
-# https://github.com/HyperSuprime-Cam/pipe_tasks/commit/3bae328e0fff4b2a02267e97cc1e53b5bbe431cb: DM-5161
-# https://github.com/HyperSuprime-Cam/pipe_tasks/commit/2cdb7c606270d84c7a05baf9949ff5724463fa6b: DM-5161
+# https://github.com/HyperSuprime-Cam/pipe_tasks/commit/3bae328e0fff4b2a02267e97cc1e53b5bbe431cb: DM-5161 (Done)
+# https://github.com/HyperSuprime-Cam/pipe_tasks/commit/2cdb7c606270d84c7a05baf9949ff5724463fa6b: DM-5161 (Done)
 #
 #coment to test git update
