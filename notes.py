@@ -12,6 +12,7 @@
 #it to the dictionary post initialization.
 
 hscLsstMap = {
+              '110':'DM-6928',
               '134':'DM-1944 (Done)',
               '138':'DM-2980, DM-245, DM-2674',
               '145':'DM-2778 (Done)',
